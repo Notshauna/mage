@@ -145,8 +145,6 @@ public final class MarvelSuperHeroesCommander extends ExpansionSet {
         cards.add(new SetCardInfo("Crimson Cowl, Master of Evil", 653, Rarity.RARE, mage.cards.c.CrimsonCowlMasterOfEvil.class));
         cards.add(new SetCardInfo("Crimson Operative", 848, Rarity.COMMON, mage.cards.c.CrimsonOperative.class));
         cards.add(new SetCardInfo("Crossover Collaboration", 684, Rarity.COMMON, mage.cards.c.CrossoverCollaboration.class));
-        cards.add(new SetCardInfo("Crystal, Inhuman Princess", 80, Rarity.RARE, mage.cards.c.CrystalInhumanPrincess.class));
-        cards.add(new SetCardInfo("Crystal, Inhuman Princess", 398, Rarity.RARE, mage.cards.c.CrystalInhumanPrincess.class));
         cards.add(new SetCardInfo("Crumbling Necropolis", 237, Rarity.UNCOMMON, mage.cards.c.CrumblingNecropolis.class));
         cards.add(new SetCardInfo("Cultivate", 172, Rarity.COMMON, mage.cards.c.Cultivate.class));
         cards.add(new SetCardInfo("Currency Converter", 197, Rarity.RARE, mage.cards.c.CurrencyConverter.class, NON_FULL_USE_VARIOUS));
@@ -692,6 +690,7 @@ public final class MarvelSuperHeroesCommander extends ExpansionSet {
         cards.add(new SetCardInfo("Wakandan Shield Guard", 613, Rarity.COMMON, mage.cards.w.WakandanShieldGuard.class));
         cards.add(new SetCardInfo("Wakandan Tusker", 748, Rarity.UNCOMMON, mage.cards.w.WakandanTusker.class));
         cards.add(new SetCardInfo("Wall Off", 614, Rarity.COMMON, mage.cards.w.WallOff.class));
+        cards.add(new SetCardInfo("Wanda's Vision", 708, Rarity.RARE, mage.cards.w.WandasVision.class));
         cards.add(new SetCardInfo("War Machine, Avenging Arsenal", 375, Rarity.RARE, mage.cards.w.WarMachineAvengingArsenal.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("War Machine, Avenging Arsenal", 63, Rarity.RARE, mage.cards.w.WarMachineAvengingArsenal.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("War Machine, James Rhodes", 572, Rarity.UNCOMMON, mage.cards.w.WarMachineJamesRhodes.class));
